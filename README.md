@@ -1,3 +1,5 @@
+> fork from SolarLiner/vue-cli-plugin-prerender-spa to support `baseUrl` and `pages` options of vue-cli
+
 # vue-cli-plugin-prerender-spa
 
 Add `prerender-spa-plugin` into your Vue application with zero configuration.
